@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[LinkedIn](www.linkedin.com/in/daemon-adams)
+(www.linkedin.com/in/daemon-adams)
 
 # Projects
 

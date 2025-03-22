@@ -25,7 +25,7 @@ Task 1: Analyzing Domain Controller Security Logs, can you confirm the date & ti
 Answer: 2024-05-21 03:18:09
 ### Explanation
 To find kerberoasting activity, I started off by searching for Event ID 4768. Event ID 4768 is logged on the Domain Controllers (DC), and tracks failed or successful instances of kerberoasting. Shown below you will see I found a account with a different service name from the standard "DC$", as well as the Ticket Encryption Type being 0x17.
-HTB Lab Campfire 1 .png
+![Image](HTB Lab Campfire 1 .png)
 
 
 ## Header 2

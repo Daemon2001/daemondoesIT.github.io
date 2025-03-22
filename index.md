@@ -14,6 +14,11 @@ HTB Sherlocks is a Capture The Flag (CTF) challenge designed for Blue Teamers. I
 
 Below, you'll find my progress and solutions for the Sherlock Labs.
 
+Campfire -  (DFIR Sherlock)
+Date Investigated: 03/20/2025
+Tools Used: Event Viewer, Timeline Explorer
+
+## Scenario 
 ## Header 2
 
 > This is a blockquote following a header.

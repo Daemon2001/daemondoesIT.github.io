@@ -19,6 +19,15 @@ Date Investigated: 03/20/2025
 Tools Used: Event Viewer, Timeline Explorer
 
 ## Scenario 
+Alonzo Spotted Weird files on his computer and informed the newly assembled SOC Team. Assessing the situation it is believed a Kerberoasting attack may have occurred in the network. It is your job to confirm the findings by analyzing the provided evidence. You are provided with: 1- Security Logs from the Domain Controller 2- PowerShell-Operational Logs from the affected workstation 3- Prefetch Files from the affected workstation
+
+Task 1: Analyzing Domain Controller Security Logs, can you confirm the date & time when the kerberoasting activity occurred?
+Answer: 2024-05-21 03:18:09
+### Explanation
+To find kerberoasting activity, I started off by searching for Event ID 4768. Event ID 4768 is logged on the Domain Controllers (DC), and tracks failed or successful instances of kerberoasting. Shown below you will see I found a account with a different service name from the standard "DC$", as well as the Ticket Encryption Type being 0x17.
+HTB Lab Campfire 1 .png
+
+
 ## Header 2
 
 > This is a blockquote following a header.

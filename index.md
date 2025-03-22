@@ -2,11 +2,12 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[LinkedIn Link:](www.linkedin.com/in/daemon-adams).
 
-There should be whitespace between paragraphs.
+#Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
 
 # HTB Sherlocks 
 

@@ -5,7 +5,7 @@ layout: default
 (www.linkedin.com/in/daemon-adams)
 
 # Portfolio
-
+Hello, my name is Dae'mon Adams and this is my professional Cybersecurity portfolio, below you will find a series of Home Labs, HTB Sherlocks,SIEM tools, DFIR tools and more.I am currently seeking a posiion that leverages my Blue Team skills and allows me to contribute to the dynamic field of cybersecurity. I am eadger to join forward-thinking organization where my skills will be tested.
 
 # Projects
 

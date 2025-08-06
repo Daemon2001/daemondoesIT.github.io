@@ -8,10 +8,10 @@ www.linkedin.com/in/daemon-adams
 Welcome to my professional cybersecurity portfolio. Below, you will find a collection of my work, displaying home labs, HTB Sherlocks, SIEM tools, DFIR tools, and more, demonstrating my hands-on experience in the field. I am currently seeking a position where I can leverage my Blue Team skills and contribute to the evolving landscape of cybersecurity. Eager to join a forward-thinking organization, I look forward to applying my knowledge in threat detection, incident response, and security monitoring to help strengthen cybersecurity defenses.
 
 # Projects
-Azure Honeypot Detection Lab (Microsoft Sentinel)
+**Azure Honeypot Detection Lab (Microsoft Sentinel)**
 
 
-**Tools & Stack**
+**Tools & Stack:**
   Azure Virtual Machine (Windows 10 Pro)
   Microsoft Sentinel (SIEM)
   Log Analytics Workspace
@@ -47,7 +47,7 @@ I'm building real-world defensive security skills, cloud logging, threat detecti
 
 ## Visualization Output
 Here’s a sample of the attack map generated in Sentinel using enriched GeoIP telemetry:
-![Attack Map](Attack Map.png)
+![Image](Attack Map.png)
 
 
 ## Real-time Visual

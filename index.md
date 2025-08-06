@@ -24,7 +24,7 @@ Welcome to my professional cybersecurity portfolio. Below, you will find a colle
 
 I'm building real-world defensive security skills, cloud logging, threat detection, and incident response. This home lab showcases my ability to configure and analyze in Azure environments using Sentinel and KQL to visualize attacker data.
 
----
+
 ## Project Overview
 
 | Phase             | What I Did |

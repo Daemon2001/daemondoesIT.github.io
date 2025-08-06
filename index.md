@@ -9,7 +9,7 @@ Welcome to my professional cybersecurity portfolio. Below, you will find a colle
 
 # Projects
 Azure Honeypot Detection Lab (Microsoft Sentinel)
----
+
 
 **Tools & Stack**
   Azure Virtual Machine (Windows 10 Pro)
@@ -19,7 +19,7 @@ Azure Honeypot Detection Lab (Microsoft Sentinel)
   KQL (Kusto Query Language)
   GeoIP Enrichment + Attack Heatmap
   
----
+
 ### Professional Statement
 
 I'm building real-world defensive security skills, cloud logging, threat detection, and incident response. This home lab showcases my ability to configure and analyze in Azure environments using Sentinel and KQL to visualize attacker data.
@@ -35,7 +35,7 @@ I'm building real-world defensive security skills, cloud logging, threat detecti
 | **Visualization**  | Created an attack map workbook in Sentinel to display geolocated threat sources in near-real time |
 | **Outcomes**       | Detected unauthorized login attempts from global regions (ex: Russia), practiced detection engineering, SIEM configuration, and incident workflow |
 
----
+
 ## Skills & Learnings
 - Azure cloud architecture and honeypot setup  
 - Microsoft Sentinel configuration and log forwarding  
@@ -44,17 +44,17 @@ I'm building real-world defensive security skills, cloud logging, threat detecti
 - Mapping attacker patterns to real IP geography  
 - Incident reporting: identifying IOCs, providing mitigation, outlining proactive measures
 
----
+
 ## Visualization Output
 Here’s a sample of the attack map generated in Sentinel using enriched GeoIP telemetry:
 ![Attack Map](Attack Map.png)
 
----
+
 ## Real-time Visual
 This is a prime example of a attacker named "marco" trying to access my workstation. He or she is seen trying to log in to my vm. When i look up their IP Address. I get the location of *Russia, Saint-Petersburg*.
 ![Image](Pasted image 20250801201906.png)
 
----
+
 ## KQL query
 To view the data we can go back to our Logs table we can query for specific geo locations. using the provided query:
 
